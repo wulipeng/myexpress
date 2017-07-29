@@ -1,0 +1,22 @@
+{
+  "name": "myexpress",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "express-session": "^1.15.4",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.30",
+    "morgan": "^1.8.2",
+    "node-wechat": "^0.3.0",
+    "redis": "^2.7.1",
+    "serve-favicon": "^2.4.3",
+    "wechat-node": "^1.0.2"
+  }
+}
